@@ -1,9 +1,30 @@
 <h1 align="center">Hi 👋, I'm Neerav Gupta</h1>
-<h3 align="center">A passionate Full Stack developer</h3>
 
-- 📫 How to reach me **Email: nhero.dev@gmail.com**
+<h3 align="center">
+  Backend-focused Full-Stack Developer
+</h3>
 
-<h3 align="left">Languages and Tools:</h3>
-<img src="https://skillicons.dev/icons?i=nextjs,react,tailwind,ts,js,html,css,appwrite,mongodb,nodejs,express,discordjs,vercel,mysql&perline=9" />
+<p align="center">
+  I build full-stack applications and backend systems with a focus on
+  real-time applications, APIs, and scalable architecture.
+</p>
 
-<p><img align="center" src="https://github-stats-extended.vercel.app/api/top-langs?username=nheroop&show_icons=true&locale=en&layout=compact" alt="nheroop" /></p>
+<p align="center">
+  <a href="https://www.linkedin.com/in/NHeroOP/">LinkedIn</a> •
+  <a href="https://nhero.xyz">Portfolio</a> •
+  <a href="mailto:nhero.dev@gmail.com">Email</a>
+</p>
+
+---
+
+### 🛠️ Languages & Technologies
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=ts,js,nextjs,react,nodejs,express,postgres,prisma,mongodb,redis,tailwind,docker,git,github,linux&perline=8" />
+</p>
+
+---
+
+### 📫 Contact
+
+- Email: **nhero.dev@gmail.com**
