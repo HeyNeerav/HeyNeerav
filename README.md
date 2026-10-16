@@ -10,9 +10,9 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/NHeroOP/">LinkedIn</a> •
-  <a href="https://nhero.xyz">Portfolio</a> •
-  <a href="mailto:nhero.dev@gmail.com">Email</a>
+  <a href="https://www.linkedin.com/in/HeyNeerav/">LinkedIn</a> •
+  <a href="https://HeyNeerav.tech">Portfolio</a> •
+  <a href="mailto:neerav.hey@gmail.com">Email</a>
 </p>
 
 ---
@@ -27,4 +27,4 @@
 
 ### 📫 Contact
 
-- Email: **nhero.dev@gmail.com**
+- Email: **neerav.hey@gmail.com**
